@@ -32,8 +32,12 @@ máxima
 
 
 
-191ccca4-5d04-4222-a631-f393eb62ee3b.jpg
-0bee187c-95dc-4e0d-bfad-82af512cc98b.jpg
+
+![mapa conceptual cap7](https://user-images.githubusercontent.com/93928146/146944539-85286f75-d092-4bc7-9d1f-115920e3d3b9.PNG)
+![mapa conceptual capp7](https://user-images.githubusercontent.com/93928146/146944557-eed0dda9-31b9-4cee-9faa-b978afb697b5.PNG)
+
+
+
 
 
 
