@@ -49,6 +49,11 @@ máxima
 
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
+
+**9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
+![circ9](https://user-images.githubusercontent.com/93224166/146945623-c1190a24-e0fc-4b14-b3f2-91a4f02a67b0.png)
+![resolucion9](https://user-images.githubusercontent.com/93224166/146945581-07b6f2a2-ed60-4e81-a83a-4ee556708597.png)
+
 ## 4. Video 
 ## 5. Conclusiones
 ## 6. Bibliografia
