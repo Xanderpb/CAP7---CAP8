@@ -17,6 +17,17 @@
 * Analizar circuitos en serie-paralelo
 * Determinar la resistencia total
 * Determinar todas las corrientes
+* Aplicar el teorema de superposición al análisis de
+circuitos
+* Aplicar el teorema de Thevenin para simplificar un
+circuito para su análisis
+* Aplicar el teorema de Norton para simplificar un
+circuito
+* Aplicar el teorema de transferencia de potencia
+máxima
+* Realizar conversiones △ a Y y Y a △
+
+
 ## 2. Marco teorico
 
 
