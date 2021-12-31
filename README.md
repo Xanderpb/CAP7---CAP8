@@ -51,8 +51,30 @@ máxima
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
-![circ9](https://user-images.githubusercontent.com/93224166/146945623-c1190a24-e0fc-4b14-b3f2-91a4f02a67b0.png)
-![resolucion9](https://user-images.githubusercontent.com/93224166/146945581-07b6f2a2-ed60-4e81-a83a-4ee556708597.png)
+
+**13. Determine el voltaje del punto A al punto B en la figura 8-73.**
+ 
+**15. La figura 8-75 muestra dos redes en la escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
+
+**17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.**
+
+**21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.**
+
+**23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+**
+**25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+**
+**27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+**
+**29. Aplique el teorema de Norton al circuito de la figura 8-84.
+**
+**31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.**
+
+Como las potencia es maxima  la RL va ser igual ha la resistencia de Rs.
+
+**33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?**
+
+**35. En la figura 8-89, convierta cada red Y en una red delta.**
 
 ## 4. Video 
 ## 5. Conclusiones
