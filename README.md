@@ -51,31 +51,56 @@ máxima
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
+![9 1](https://user-images.githubusercontent.com/93224166/147840144-09b22850-8c13-4195-9648-a59ab8e5d723.png)
+![9 2](https://user-images.githubusercontent.com/93224166/147840145-86a79719-5eba-42eb-8e13-48bfd8dd7d15.png)
 
 **13. Determine el voltaje del punto A al punto B en la figura 8-73.**
+![13 1](https://user-images.githubusercontent.com/93224166/147840126-617208e2-3175-45d0-acf3-ca32125d678c.png)
+![13 2](https://user-images.githubusercontent.com/93224166/147840127-61a5668a-4c06-487d-9081-400571103942.png)
+![13 3](https://user-images.githubusercontent.com/93224166/147840128-ca93b76e-c784-4f9b-87c5-dae00277f8eb.png)
  
 **15. La figura 8-75 muestra dos redes en la escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
+![15 1](https://user-images.githubusercontent.com/93224166/147840129-52257087-2d90-4fae-8c41-e8648289230d.png)
+![15 2](https://user-images.githubusercontent.com/93224166/147840130-0f6be622-0373-42cb-b0c2-4b8b3df86286.png)
 
 **17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.**
+![17 1](https://user-images.githubusercontent.com/93224166/147840131-3938a1a5-ec74-4406-8b44-1cf4d0dd0985.png)
+![17 2](https://user-images.githubusercontent.com/93224166/147840132-d46fc3bc-833b-4d7c-8a94-612b2b136f42.png)
 
 **21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.**
+![21 1](https://user-images.githubusercontent.com/93224166/147840133-0e1659d9-a05b-4171-baf8-96fadfe4f43e.png)
+![21 2](https://user-images.githubusercontent.com/93224166/147840134-7f805a1a-1c7f-4f24-9e35-6b8a2f962816.png)
 
 **23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 **
+![23 1](https://user-images.githubusercontent.com/93224166/147840135-236be1d8-3a79-4d09-bf49-7a81fc1df567.png)
+![23 2](https://user-images.githubusercontent.com/93224166/147840136-1b104c8e-f176-410b-8f0e-9b53066994cf.png)
+![23 3](https://user-images.githubusercontent.com/93224166/147840137-c776e8f4-7837-4c82-bfbb-b0b67ecd0669.png)
+![23 4](https://user-images.githubusercontent.com/93224166/147840138-7e737f7d-9551-4003-9523-d6fa6ecdfaee.png)
+
 **25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 **
+
 **27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 **
+![27](https://user-images.githubusercontent.com/93224166/147840139-f2097be9-4afb-4a68-9c50-b43d26f1fd72.png)
+
 **29. Aplique el teorema de Norton al circuito de la figura 8-84.
 **
+![29](https://user-images.githubusercontent.com/93224166/147840140-1ea4ada7-44ad-4226-883a-82709730cb4b.png)
 **31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.**
-
+![31](https://user-images.githubusercontent.com/93224166/147840141-b1b657a9-f36e-40d2-9ce4-aed8b0e9503c.png)
 Como las potencia es maxima  la RL va ser igual ha la resistencia de Rs.
 
 **33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?**
 
 **35. En la figura 8-89, convierta cada red Y en una red delta.**
+![35 1](https://user-images.githubusercontent.com/93224166/147840142-f19d5f78-4f1f-4e65-a63e-e16a58ba892e.png)
+![35 2](https://user-images.githubusercontent.com/93224166/147840143-c8f7707f-a7b5-43c5-a29d-c5b45d901ad6.png)
 
 ## 4. Video 
 ## 5. Conclusiones
 ## 6. Bibliografia
+FLOYD, THOMAS L.
+Principios de circuitos eléctricos. Octava edición
+PEARSON EDUCACIÓN, México, 2007
