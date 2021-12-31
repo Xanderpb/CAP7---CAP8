@@ -72,26 +72,22 @@ máxima
 ![21 1](https://user-images.githubusercontent.com/93224166/147840133-0e1659d9-a05b-4171-baf8-96fadfe4f43e.png)
 ![21 2](https://user-images.githubusercontent.com/93224166/147840134-7f805a1a-1c7f-4f24-9e35-6b8a2f962816.png)
 
-**23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
-**
+**23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.**
 ![23 1](https://user-images.githubusercontent.com/93224166/147840135-236be1d8-3a79-4d09-bf49-7a81fc1df567.png)
 ![23 2](https://user-images.githubusercontent.com/93224166/147840136-1b104c8e-f176-410b-8f0e-9b53066994cf.png)
 ![23 3](https://user-images.githubusercontent.com/93224166/147840137-c776e8f4-7837-4c82-bfbb-b0b67ecd0669.png)
 ![23 4](https://user-images.githubusercontent.com/93224166/147840138-7e737f7d-9551-4003-9523-d6fa6ecdfaee.png)
 
-**25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
-**
+**25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.**
 
-**27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
-**
+**27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.**
 ![27](https://user-images.githubusercontent.com/93224166/147840139-f2097be9-4afb-4a68-9c50-b43d26f1fd72.png)
 
-**29. Aplique el teorema de Norton al circuito de la figura 8-84.
-**
+**29. Aplique el teorema de Norton al circuito de la figura 8-84.**
 ![29](https://user-images.githubusercontent.com/93224166/147840140-1ea4ada7-44ad-4226-883a-82709730cb4b.png)
 **31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.**
 ![31](https://user-images.githubusercontent.com/93224166/147840141-b1b657a9-f36e-40d2-9ce4-aed8b0e9503c.png)
-Como las potencia es maxima  la RL va ser igual ha la resistencia de Rs.
+* Como las potencia es maxima  la RL va ser igual ha la resistencia de Rs.
 
 **33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?**
 
