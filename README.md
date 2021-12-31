@@ -10,8 +10,9 @@
 ### TEMA: Circuitos serie - paralelo, Teoremas de circuitos y conversiones 
 ## 1. Objetivos
 ### Objetivo general
-* 
-### objetivos especificos
+* Idetenficar la relacion serie paraleleos para encontrar resistencias, voltajes e intensidades incognitas mediente la aplicacion de formulas tanto de serie como de paralelo.
+* Utilizar los teoremas de superposicion, Thevenin, Norton en circuitos electricos para una resolucion de mas simple, mediante la aplicacion de ley de ohm, analisis en mallas entros otros.
+### Objetivos especificos
 
 * Identificar las relaciones serie-paralelo
 * Analizar circuitos en serie-paralelo
