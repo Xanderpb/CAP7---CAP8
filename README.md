@@ -56,15 +56,26 @@ máxima
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
 SECCIÓN 7–4 Efecto de carga de un voltímetro 
+
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+
  (a) 1 V
+ 
  (b) 10 V
+ 
  (c) 100 V
+ 
  (d) 1000 V
+ 
+ La minima carga en un circuito es de 1000V
  
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a). (a) ¿Qué intervalo se deberá utilizar? (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
+![37-7](https://user-images.githubusercontent.com/93951775/147977908-1bc1fb41-a70a-42ad-b39e-3188533c47fd.JPG)
+
 39. Para el circuito mostrado en la figura 7-77, calcule: (a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente (c) La corriente a través del resistor de 910 Æ (d) El voltaje desde el punto A hasta el punto B
+
+![39-7](https://user-images.githubusercontent.com/93951775/147977912-183cc15a-0956-480d-a851-f4cf4b1410b4.JPG))
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
