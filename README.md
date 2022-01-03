@@ -63,16 +63,22 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 39. Para el circuito mostrado en la figura 7-77, calcule: (a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente (c) La corriente a través del resistor de 910 Æ (d) El voltaje desde el punto A hasta el punto B
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+![41-7](https://user-images.githubusercontent.com/93951775/147975908-edbfadaa-36c2-4239-ab7d-4a118d96f8e2.JPG)
 
 43. Determine IT y VSALIDA en la figura 7-80.
+![43-7](https://user-images.githubusercontent.com/93951775/147975917-39dc13ef-2224-467f-bfc7-5200edf87069.JPG)
 
 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. 
+ ![47-7](https://user-images.githubusercontent.com/93951775/147975931-75e91cc6-08e6-4a64-8210-f0831981f68e.JPG)
  
 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+ ![49-7](https://user-images.githubusercontent.com/93951775/147975943-f260753f-bdcc-4509-88bd-527b296242f7.JPG
  
 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+ ![51-7](https://user-images.githubusercontent.com/93951775/147975959-0d42bc70-7123-4e2e-afc7-cfac2a24570c.JPG)
  
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+ ![53-7](https://user-images.githubusercontent.com/93951775/147975970-1424d3a4-4065-4f60-ab43-513a41d3c34d.JPG)
  
 1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Æ. Conviértala en una fuente de corriente equivalente.
 
@@ -81,6 +87,7 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente.
 
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+![7-8](https://user-images.githubusercontent.com/93951775/147976021-f0fc7042-db88-4989-bec1-4678a2ee1daa.JPG)
 
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
 ![9 1](https://user-images.githubusercontent.com/93224166/147840144-09b22850-8c13-4195-9648-a59ab8e5d723.png)
