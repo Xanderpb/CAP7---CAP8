@@ -38,6 +38,10 @@ máxima
 ![mapa conceptual capp7](https://user-images.githubusercontent.com/93928146/146944557-eed0dda9-31b9-4cee-9faa-b978afb697b5.PNG)
 
 
+![7-4](https://user-images.githubusercontent.com/93951775/147976843-376e6b72-2e46-4cf7-aa3e-fe6cd98a3795.jpeg)
+
+![7-5](https://user-images.githubusercontent.com/93951775/147976854-21ec82c6-7fc9-44b3-a4f1-e60953495e3c.jpeg)
+
 
 
 
