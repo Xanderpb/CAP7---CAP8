@@ -76,7 +76,7 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
  
 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
- ![49-7](https://user-images.githubusercontent.com/93951775/147975943-f260753f-bdcc-4509-88bd-527b296242f7.JPG
+ ![49-7](https://user-images.githubusercontent.com/93951775/147975943-f260753f-bdcc-4509-88bd-527b296242f7.JPG)
  
 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
