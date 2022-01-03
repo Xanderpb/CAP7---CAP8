@@ -51,6 +51,37 @@ máxima
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+SECCIÓN 7–4 Efecto de carga de un voltímetro 
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+ (a) 1 V
+ (b) 10 V
+ (c) 100 V
+ (d) 1000 V
+ 
+37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a). (a) ¿Qué intervalo se deberá utilizar? (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+39. Para el circuito mostrado en la figura 7-77, calcule: (a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente (c) La corriente a través del resistor de 910 Æ (d) El voltaje desde el punto A hasta el punto B
+
+41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+43. Determine IT y VSALIDA en la figura 7-80.
+
+47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. 
+ 
+49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+ 
+51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+ 
+53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+ 
+1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Æ. Conviértala en una fuente de corriente equivalente.
+
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente.
+
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
 ![9 1](https://user-images.githubusercontent.com/93224166/147840144-09b22850-8c13-4195-9648-a59ab8e5d723.png)
 ![9 2](https://user-images.githubusercontent.com/93224166/147840145-86a79719-5eba-42eb-8e13-48bfd8dd7d15.png)
