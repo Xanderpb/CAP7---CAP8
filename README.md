@@ -138,6 +138,8 @@ máxima
 
 ![41-7](https://user-images.githubusercontent.com/93951775/147975908-edbfadaa-36c2-4239-ab7d-4a118d96f8e2.JPG)
 
+![041](https://user-images.githubusercontent.com/93951775/148069955-67f0f61c-1b1e-44f5-807c-946ac4ab1ffc.JPG)
+
 43. Determine IT y VSALIDA en la figura 7-80
 
 ![43-7](https://user-images.githubusercontent.com/93951775/147975917-39dc13ef-2224-467f-bfc7-5200edf87069.JPG)
