@@ -171,6 +171,8 @@ máxima
  
 1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Æ. Conviértala en una fuente de corriente equivalente.
 
+![01](https://user-images.githubusercontent.com/93951775/148073470-43aa1c58-a69c-4ca0-84df-366820a30ac7.JPG)
+
 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
 ![02](https://user-images.githubusercontent.com/93951775/148071473-b28d5c9b-495e-4c03-9367-b9a206eeb70e.JPG)
