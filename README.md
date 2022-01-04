@@ -136,11 +136,13 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 
  ![51-7](https://user-images.githubusercontent.com/93951775/147975959-0d42bc70-7123-4e2e-afc7-cfac2a24570c.JPG)
  
+ Que el voltimetro de la resistencia r4 y r5 esta mal
+ 
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
  ![53-7](https://user-images.githubusercontent.com/93951775/147975970-1424d3a4-4065-4f60-ab43-513a41d3c34d.JPG)
  
- Que los voltimeros estan mal colocados
+ Que el voltimetro de  la r3 y r4 esta bien y el otro esta mal 
  
 1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Æ. Conviértala en una fuente de corriente equivalente.
 
