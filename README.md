@@ -130,6 +130,8 @@ máxima
 
 ![37-7](https://user-images.githubusercontent.com/93951775/147977908-1bc1fb41-a70a-42ad-b39e-3188533c47fd.JPG)
 
+el intevalo debe ser de 0.5 y el voltaje aproximado de 1 mV
+
 39. Para el circuito mostrado en la figura 7-77, calcule: (a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente (c) La corriente a través del resistor de 910 Æ (d) El voltaje desde el punto A hasta el punto B
 
 ![39-7](https://user-images.githubusercontent.com/93951775/147977912-183cc15a-0956-480d-a851-f4cf4b1410b4.JPG))
