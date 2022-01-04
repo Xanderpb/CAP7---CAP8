@@ -112,7 +112,7 @@ máxima
 
 
 
-**SECCIÓN 7–4 Efecto de carga de un voltímetro **
+
 
 **35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?**
 
