@@ -119,6 +119,9 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 ![43-7](https://user-images.githubusercontent.com/93951775/147975917-39dc13ef-2224-467f-bfc7-5200edf87069.JPG)
 
+![043](https://user-images.githubusercontent.com/93951775/148021950-2e25ac4a-a8a2-484e-80bc-7f557a51dfbe.JPG)
+
+
 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. 
 
  ![47-7](https://user-images.githubusercontent.com/93951775/147975931-75e91cc6-08e6-4a64-8210-f0831981f68e.JPG)
@@ -127,6 +130,8 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 
  ![49-7](https://user-images.githubusercontent.com/93951775/147975943-f260753f-bdcc-4509-88bd-527b296242f7.JPG)
  
+ El voltaje es de 5.825V quiere decir que esta mal
+ 
 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
  ![51-7](https://user-images.githubusercontent.com/93951775/147975959-0d42bc70-7123-4e2e-afc7-cfac2a24570c.JPG)
@@ -134,6 +139,8 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
  ![53-7](https://user-images.githubusercontent.com/93951775/147975970-1424d3a4-4065-4f60-ab43-513a41d3c34d.JPG)
+ 
+ Que los voltimeros estan mal colocados
  
 1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Æ. Conviértala en una fuente de corriente equivalente.
 
