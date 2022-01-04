@@ -180,6 +180,8 @@ máxima
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente.
 
+![05](https://user-images.githubusercontent.com/93951775/148074270-282538a4-40cf-44b7-a549-66774d18ed01.JPG)
+
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
 
 ![7-8](https://user-images.githubusercontent.com/93951775/147976021-f0fc7042-db88-4989-bec1-4678a2ee1daa.JPG)
