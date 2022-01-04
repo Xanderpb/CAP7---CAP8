@@ -199,35 +199,11 @@ máxima
 ## 4. Video 
 https://youtu.be/lmWsf8bRKNY
 ## 5. Conclusiones
-
-
-
-
-El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta.
-
-
-La suma de los voltajes de cada dispositivo, es igual al voltaje de la fuente de alimentación.
-
-La suma de las resistencias del circuito, es igual a la resistencia total del circuito.
-
-
-El voltaje es el mismo en cada uno de los dispositivos y corresponde al voltaje de la fuente de alimentación.
-
-La corriente en cada dispositivo será distinta si la resistencia de estos es distinta.
-
-
-Entonces, resistencia y corriente son inversamente proporcionales.
-
-
-La suma de las corrientes de cada dispositivo, será igual a la corriente total del circuito.
-
-La resistencia total, es menor que el valor de la resistencia más pequeña del circuito.
-Cada método de análisis nos permite hallar, en el caso de mallas, la corriente que pasa por una resistencia y en el caso del método de nodos, la diferencia de potencial entre dos puntos, no se puede decidir cuál es el mejor método ya que su aplicación depende de la situación en la que nos encontremos, es por ello que aprender ambos métodos es muy importante para tener las herramientas necesarias en la solución de problemas.
-
-
-
-
-
+* Un circuito mixto es la union de un circuito en serie con uno en paralelo
+* Identificar que circuitos estan en serie y cuales estan en paralelo para una correcta realizacion del ejercicio
+* El teorema de superposicion ayuda a simplificar un circuito complejo ha un circuito mas simple.
+* El teorema de Thevenin y Norton  reduce cualquier circuito electrico ha su equivalente Thevenin o Norton en un circuito simple de resolver.
+* Los equivelentes thevenin cambian de acuerdo de donde se mire.
 ## 6. Bibliografia
 FLOYD, THOMAS L.
 Principios de circuitos eléctricos. Octava edición
